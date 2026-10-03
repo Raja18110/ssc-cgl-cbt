@@ -1,0 +1,1337 @@
+{
+  "shift_id": "ssc_cgl_19th_sep_shift_1",
+  "title": "SSC CGL 2025: 19th Sep Shift 1",
+  "total_questions": 100,
+  "duration_minutes": 60,
+  "total_marks": 200,
+  "marks_per_question": 2.0,
+  "negative_marks": 0.5,
+  "sections": [
+    {
+      "name": "General Intelligence & Reasoning",
+      "start_id": 1,
+      "end_id": 25,
+      "questions_count": 25
+    },
+    {
+      "name": "General Awareness",
+      "start_id": 26,
+      "end_id": 50,
+      "questions_count": 25
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "start_id": 51,
+      "end_id": 75,
+      "questions_count": 25
+    },
+    {
+      "name": "English Comprehension",
+      "start_id": 76,
+      "end_id": 100,
+      "questions_count": 25
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q1.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q1.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 2,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q2.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q2.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 3,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q3.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q3.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 4,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q4.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q4.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 5,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q5.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q5.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 6,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q6.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q6.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 7,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q7.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q7.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 8,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q8.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q8.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 9,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q9.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q9.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 10,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q10.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q10.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 11,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q11.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q11.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 12,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q12.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q12.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 13,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q13.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q13.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 14,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q14.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q14.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 15,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q15.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q15.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 16,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q16.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q16.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 17,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q17.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q17.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 18,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q18.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q18.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 19,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q19.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q19.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 20,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q20.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q20.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 21,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q21.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q21.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 22,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q22.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q22.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 23,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q23.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q23.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 24,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q24.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q24.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 25,
+      "section": "General Intelligence & Reasoning",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q25.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q25.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 26,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q26.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q26.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 27,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q27.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q27.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 28,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q28.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q28.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 29,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q29.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q29.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 30,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q30.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q30.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 31,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q31.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q31.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 32,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q32.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q32.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 33,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q33.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q33.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 34,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q34.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q34.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 35,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q35.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q35.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 36,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q36.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q36.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 37,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q37.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q37.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 38,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q38.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q38.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 39,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q39.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q39.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 40,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q40.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q40.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 41,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q41.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q41.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 42,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q42.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q42.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 43,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q43.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q43.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 44,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q44.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q44.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 45,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q45.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q45.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 46,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q46.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q46.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 47,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q47.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q47.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 48,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q48.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q48.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 49,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q49.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q49.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 50,
+      "section": "General Awareness",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q50.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q50.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 51,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q51.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q51.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 52,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q52.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q52.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 53,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q53.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q53.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 54,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q54.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q54.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 55,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q55.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q55.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 56,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q56.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q56.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 57,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q57.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q57.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 58,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q58.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q58.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 59,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q59.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q59.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 60,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q60.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q60.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 61,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q61.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q61.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 62,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q62.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q62.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 63,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q63.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q63.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 64,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q64.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q64.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 65,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q65.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q65.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 66,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q66.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q66.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 67,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q67.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q67.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 68,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q68.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q68.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 69,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q69.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q69.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 70,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q70.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q70.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 71,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q71.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q71.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 72,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q72.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q72.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 73,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q73.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q73.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 74,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q74.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q74.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 75,
+      "section": "Quantitative Aptitude",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q75.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q75.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 76,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q76.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q76.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 77,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q77.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q77.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 78,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q78.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q78.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 79,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q79.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q79.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 80,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q80.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q80.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 81,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q81.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q81.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 82,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q82.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q82.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 83,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q83.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q83.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 84,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q84.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q84.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 85,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q85.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q85.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 86,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q86.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q86.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 87,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q87.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q87.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 88,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q88.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q88.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 89,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q89.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q89.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 90,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q90.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q90.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 91,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q91.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q91.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 92,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q92.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q92.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 93,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q93.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q93.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 94,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q94.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q94.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 95,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q95.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q95.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 96,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q96.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q96.png",
+      "correct": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 97,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q97.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q97.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 98,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q98.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q98.png",
+      "correct": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 99,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q99.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q99.png",
+      "correct": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 100,
+      "section": "English Comprehension",
+      "stem_img": "cards/stems/ssc_cgl_19th_sep_shift_1_q100.png",
+      "solution_img": "cards/solutions/ssc_cgl_19th_sep_shift_1_q100.png",
+      "correct": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ]
+}
