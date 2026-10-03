@@ -19,6 +19,7 @@ let cbtState = {
   mistakesStatus: 'all',
   bookmarksSection: 'all'
 };
+window.cbtState = cbtState;
 
 // INITIALIZATION
 document.addEventListener('DOMContentLoaded', async () => {
@@ -181,7 +182,7 @@ function renderRecentAttempts(attempts) {
         <td><span style="background:#eff6ff; color:#1e40af; font-weight:700; padding:2px 8px; border-radius:4px; font-size:12px;">${a.accuracy}%</span></td>
         <td style="color:#64748b;">${mins} mins</td>
         <td>
-          <button class="btn-cbt" style="background:#f1f5f9; color:#1e293b; border:1px solid #cbd5e1; font-size:11px; padding:4px 10px;" onclick="loadScorecardModal(${a.id})">
+          <button class="btn-cbt" style="background:#f1f5f9; color:#1e293b; border:1px solid #cbd5e1; font-size:11px; padding:4px 10px;" onclick="loadScorecardModal('${a.id}')">
             📊 View Scorecard
           </button>
         </td>
@@ -247,12 +248,12 @@ function renderDashboardShifts() {
       statusBadge = `<span class="status-badge status-completed">Best: ${best} / 200</span>`;
       btnText = 'Retake Mock Test';
       btnClass = 'btn-save-next';
-      resetBtn = `<button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fecaca; font-size:11px; padding:6px 10px;" onclick="resetShiftSession(${t.id}, event)" title="Reset attempt session">🔄 Reset</button>`;
+      resetBtn = `<button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fecaca; font-size:11px; padding:6px 10px;" onclick="resetShiftSession('${t.id}', event)" title="Reset attempt session">🔄 Reset</button>`;
     } else if (t.status === 'IN_PROGRESS') {
       statusBadge = '<span class="status-badge status-in-progress">In Progress</span>';
       btnText = 'Resume Test &rarr;';
       btnClass = 'btn-prev';
-      resetBtn = `<button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fecaca; font-size:11px; padding:6px 10px;" onclick="resetShiftSession(${t.id}, event)" title="Restart test from beginning">🔄 Restart</button>`;
+      resetBtn = `<button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fecaca; font-size:11px; padding:6px 10px;" onclick="resetShiftSession('${t.id}', event)" title="Restart test from beginning">🔄 Restart</button>`;
     }
 
     return `
@@ -268,7 +269,7 @@ function renderDashboardShifts() {
           </div>
         </div>
         <div style="display:flex; gap:8px;">
-          <button class="btn-cbt ${btnClass}" style="flex:1; justify-content:center;" onclick="startShiftFromDash(${t.id})">
+          <button class="btn-cbt ${btnClass}" style="flex:1; justify-content:center;" onclick="startShiftFromDash('${t.id}')">
             ${btnText}
           </button>
           ${resetBtn}
@@ -304,7 +305,7 @@ function populateShiftSelectorDropdown(tests) {
   if (!container) return;
 
   container.innerHTML = tests.map((s, idx) => `
-    <div class="shift-select-card ${idx === 0 ? 'selected' : ''}" onclick="selectShiftCard(${s.id}, this)">
+    <div class="shift-select-card ${idx === 0 ? 'selected' : ''}" onclick="selectShiftCard('${s.id}', this)">
       <div class="shift-card-header">
         <span class="shift-card-badge">Tier-1 CBT</span>
         <span class="shift-card-time">⏱️ 60 Mins</span>
@@ -1032,7 +1033,7 @@ async function loadMistakes() {
             <button class="btn-cbt" style="background:#f1f5f9; color:#1e293b; border:1px solid #cbd5e1; font-size:12px;" onclick="toggleReviewSolution('mistake-sol-${m.question_id}')">
               🔍 View Official Solution Key
             </button>
-            <button class="btn-cbt" style="${statusBtnColor} font-size:12px;" onclick="toggleMistakeMastery(${m.question_id}, '${isMastered ? 'NEEDS_PRACTICE' : 'MASTERED'}')">
+            <button class="btn-cbt" style="${statusBtnColor} font-size:12px;" onclick="toggleMistakeMastery('${m.question_id}', '${isMastered ? 'NEEDS_PRACTICE' : 'MASTERED'}')">
               ${statusBtnText}
             </button>
           </div>
@@ -1105,14 +1106,14 @@ async function loadBookmarks() {
         <div style="margin-bottom:12px;">
           <div style="display:flex; gap:8px;">
             <input type="text" id="bm-note-${b.question_id}" value="${b.user_note || ''}" placeholder="Add a revision note (e.g. Formula: area of sector)..." style="flex:1; padding:6px 10px; font-size:12px; border:1px solid #cbd5e1; border-radius:4px; outline:none;" />
-            <button class="btn-cbt" style="background:#2563eb; color:#fff; font-size:11px; padding:6px 12px;" onclick="saveBookmarkNote(${b.question_id})">Save Note</button>
+            <button class="btn-cbt" style="background:#2563eb; color:#fff; font-size:11px; padding:6px 12px;" onclick="saveBookmarkNote('${b.question_id}')">Save Note</button>
           </div>
         </div>
         <div style="display:flex; justify-content:space-between; align-items:center;">
           <button class="btn-cbt" style="background:#f1f5f9; color:#1e293b; border:1px solid #cbd5e1; font-size:12px;" onclick="toggleReviewSolution('bm-sol-${b.question_id}')">
             🔍 View Official Solution Key
           </button>
-          <button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fca5a5; font-size:12px;" onclick="removeBookmark(${b.question_id}, ${b.set_id})">
+          <button class="btn-cbt" style="background:#fee2e2; color:#b91c1c; border:1px solid #fca5a5; font-size:12px;" onclick="removeBookmark('${b.question_id}', '${b.set_id}')">
             ✕ Remove Bookmark
           </button>
         </div>
